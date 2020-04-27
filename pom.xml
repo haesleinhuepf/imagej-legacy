@@ -180,6 +180,7 @@
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 		<releaseProfiles>deploy-to-scijava</releaseProfiles>
 
+		<maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
 		<miglayout-swing.version>5.2</miglayout-swing.version>
 		<scijava-search.version>0.7.0</scijava-search.version>
 		<scijava-ui-awt.version>0.1.7</scijava-ui-awt.version>
